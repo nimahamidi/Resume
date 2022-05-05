@@ -19,26 +19,6 @@ sidebar:
     github: nimahamidi
     youtube: channel TDL
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
