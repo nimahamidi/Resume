@@ -142,7 +142,7 @@ skills:
       - name: Tensorflow & Keras
         level: 95%
 
-      - name: Scikit Learn
+      - name: Scikit Learn & ML Engineering
         level: 90%
 
       - name: OpenCV & Pandas
@@ -151,7 +151,7 @@ skills:
       - name: AWS & SageMaker
         level: 85%
 
-      - name: Computer Vision, ML Engineering
+      - name: Computer Vision 
         level: 85%
 
 footer: >
