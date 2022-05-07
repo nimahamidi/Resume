@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nima Hamidi (Ghalehjegh)
-    tagline: Artificial Intelligence Engineer
+    name: Nima Hamidi
+    tagline: ML Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,6 +18,19 @@ sidebar:
     linkedin: https://www.linkedin.com/in/nima-hamidi-g/
     github: nimahamidi
     youtube: channel TDL
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Persian
+        level: Native
+
+      - idiom: Turkish
+        level: Native
+
+    interests:
+      - Music, Cooking, Digital Content Creating
 
 career-profile:
     title: Career Profile
@@ -41,43 +54,32 @@ education:
       time: 2002 - 2006
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Scientist - AI Engineer
+      time: 2020 - Present
+      company: Bayer R&D, Breeding, St. Louis
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I have proposed, developed deployed a vriety of ...
+          - Semi-suppervised crop segmentation model
+          - Unsupervised Weed detection algorithm
+          - Phenotying Wheet, both controlled environement and field
+          - Standardizing Deep Learning training frame-work
+          - Training full-time and interns to develop and deploy DL models
+          - Advicing non-imegary project in use of AI models
+    - role: Data Scientist - Computer Vision
+      time: 2019 - 2020
+      company: Bayer R&D, Biotech, St. Louis
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I did these ...
+          - Plant health prediction at post-transformation transplant stage
+          -  Diseased tissue identification from corn stalk images
+    - role: Data Scientist Intern - Computer Vision
+      time: 2019
+      company: Bayer R&D, Biotech, St. Louis
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I conducted and .
+          - Weakly supervised approach for automating insect detection procedures
+          - Designed and conducted a pilot project for replacing cost intensive multi-spectrum imaging with RGB-based algorithms 
+          - Implemented multi-task deep models for insect detection/segmentation with enhanced accuracy on complex examples
 projects:
     title: Projects
     intro: >
@@ -131,23 +133,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Deep Learning
         level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+        
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Tensorflow & Keras
+        level: 95%
+
+      - name: Scikit Learn
+        level: 90%
+
+      - name: OpenCV & Pandas
+        level: 90%
+
+      - name: AWS & SageMaker
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Computer Vision, ML Engineering
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
