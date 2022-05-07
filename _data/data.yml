@@ -7,79 +7,117 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nima Hamidi
-    tagline: ML Engineer
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nima.hamidi.g@gmail.com
-    phone: 319 621 4825
-    citizenship: US Greencard Holder
-    linkedin: https://www.linkedin.com/in/nima-hamidi-g/
-    github: nimahamidi
-    youtube: channel TDL
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Native
+
+      - idiom: French
         level: Professional
 
-      - idiom: Persian
-        level: Native
-
-      - idiom: Turkish
-        level: Native
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - Music, Cooking, Digital Content Creating
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Over two decades of self-taught and academic training in creative, scientific,
-      and engineering disciplines, I have developed exceptional problem-solving
-      skills through Artificial Intelligence. My process involves researching,
-      proposing, and developing solutions beyond the literature and standard practices.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     - degree: MSc in Computer Science
-      university: University of Iowa
-      time: 2017 - 2019
-    - degree: PhD in Music composition and Theory
-      university: University of Iowa
-      time: 2012 - 2017
-    - degree: MA in Music composition
-      university: Soureh University, Tehran, Iran
-      time: 2007 - 2010
-    - degree: BSc in Civil Engineering
-      university: Islamic Azad University, Iran
-      time: 2002 - 2006
-
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Data Scientist - AI Engineer
-      time: 2020 - Present
-      company: Bayer R&D, Breeding, St. Louis
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        I have proposed, developed deployed a vriety of ...
-          - Semi-suppervised crop segmentation model
-          - Unsupervised Weed detection algorithm
-          - Phenotying Wheet, both controlled environement and field
-          - Standardizing Deep Learning training frame-work
-          - Training full-time and interns to develop and deploy DL models
-          - Advicing non-imegary project in use of AI models
-    - role: Data Scientist - Computer Vision
-      time: 2019 - 2020
-      company: Bayer R&D, Biotech, St. Louis
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        I did these ...
-          - Plant health prediction at post-transformation transplant stage
-          -  Diseased tissue identification from corn stalk images
-    - role: Data Scientist Intern - Computer Vision
-      time: 2019
-      company: Bayer R&D, Biotech, St. Louis
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        I conducted and .
-          - Weakly supervised approach for automating insect detection procedures
-          - Designed and conducted a pilot project for replacing cost intensive multi-spectrum imaging with RGB-based algorithms 
-          - Implemented multi-task deep models for insect detection/segmentation with enhanced accuracy on complex examples
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
@@ -133,26 +171,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Deep Learning
+      - name: Python & Django
         level: 98%
-        
-      - name: Python
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: Tensorflow & Keras
-        level: 95%
-
-      - name: Scikit Learn
-        level: 90%
-
-      - name: OpenCV & Pandas
-        level: 90%
-
-      - name: AWS & SageMaker
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Computer Vision, ML Engineering
-        level: 85%
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
